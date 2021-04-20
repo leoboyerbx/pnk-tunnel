@@ -10,4 +10,4 @@ if [ $# -eq 0 ]
     exit
 fi
 
-ssh -p 8022 -t -R 9001:localhost:3000 leo@leoboyer.dev pnktunnel lefaucigny 9001
+ssh -p 8022 -t -R 9001:localhost:$1 leo@daintree.lbxs.dev pnktunnel $2 9001

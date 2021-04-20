@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo cp pnkTunnelServer.py /usr/bin/pnktunnel
+sudo cp pnkTunnelServer.py /usr/local/bin/pnktunnel

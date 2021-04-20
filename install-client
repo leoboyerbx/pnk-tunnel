@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo cp client.sh /usr/bin/pnktunnel
+sudo cp client.sh /usr/local/bin/pnktunnel
